@@ -1,3 +1,118 @@
+body {
+  font-family: Roboto, sans-serif;
+  color: #212121;
+}
+
+li,
+h2,
+a {
+  list-style: none;
+  text-decoration: none;
+  color: #212121;
+}
+
+.logo {
+  font-size: 26px;
+  font-weight: 400;
+  line-height: 1.38;
+  letter-spacing: 0.03em;
+  text-align: left;
+  color: #000000;
+}
+
+.blue_web {
+  font-family: Raleway;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 1.19;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.header_list {
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.btn_list {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.62;
+  letter-spacing: 0.03em;
+}
+
+h2 {
+  font-family: Roboto;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 2;
+  letter-spacing: 0.06em;
+}
+
+p {
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.87;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.header_item a,
+.info_item a {
+  text-decoration: none;
+  color: #212121;
+}
+
+.header_item a:focus,
+.header_item a:hover {
+  color: #2196f3;
+}
+
+.list_info {
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.info_item a {
+  color: #757575;
+  font-family: Roboto;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+}
+
+.info_item a:focus,
+.info_item a:hover {
+  color: #2196f3;
+}
+
+button {
+  cursor: pointer;
+  font-family: Roboto;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.62;
+  background-color: #f5f4fa;
+  color: #212121;
+  border: none;
+  border-radius: 4px;
+}
+
+button:focus,
+button:hover {
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
 .img_classes {
   height: 294px;
   width: 370px;
@@ -6,4 +121,14 @@
 .img_team {
   width: 270px;
   height: 368px;
+}
+address {
+  font-family: Roboto;
+  font-size: 14px;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+}
+
+.list_footer a {
+  color: rgba(255, 255, 255, 0.6);
 }
