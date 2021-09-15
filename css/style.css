@@ -106,6 +106,8 @@ a {
   background-color: #2196f3;
   color: #ffffff;
   border: 0;
+  width: 200px;
+  height: 50px;
 }
 
 .function_item > h3 {
@@ -182,7 +184,7 @@ a {
   color: #757575;
 }
 
-/* Studio footer */
+/* Общий footer */
 
 footer {
   background-color: #2f303a;
