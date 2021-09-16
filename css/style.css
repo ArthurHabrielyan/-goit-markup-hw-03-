@@ -95,6 +95,11 @@ a {
   text-transform: uppercase;
 }
 
+.hero_button:hover,
+.hero_button:focus {
+  background-color: #188ce8;
+}
+
 .hero_button {
   font-family: Roboto;
   font-size: 16px;
@@ -249,11 +254,11 @@ address {
   color: #757575;
 }
 
-.list_item {
+.list_item_portfolio {
   border: 1px solid #eeeeee;
 }
 
-.img_item {
+.img_item_portfolio {
   width: 370px;
   height: 294px;
 }
