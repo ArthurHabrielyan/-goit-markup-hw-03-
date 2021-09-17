@@ -152,6 +152,13 @@ a {
 
 /* Section "Наша команда" */
 
+.main_heading {
+  font-size: 36px;
+  line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
 .our_team {
   background-color: #f5f4fa;
 }
